@@ -153,31 +153,3 @@ http://10.0.0.1:8888/udp/239.49.0.123:8000
 http://10.0.0.1:8888/udp/239.49.0.145:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" tvg-id="6623" tvg-name="财富天下" group-title="其他",财富天下
 http://10.0.0.1:8888/udp/239.49.0.166:9322
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",电视指南
-http://10.0.0.1:8888/udp/239.49.8.84:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",精彩推荐
-http://10.0.0.1:8888/udp/239.49.8.34:8612
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏城市
-http://10.0.0.1:8888/udp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏综艺
-http://10.0.0.1:8888/udp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏体育休闲
-http://10.0.0.1:8888/udp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏影视
-http://10.0.0.1:8888/udp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏公共新闻
-http://10.0.0.1:8888/udp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏教育
-http://10.0.0.1:8888/udp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏国际
-http://10.0.0.1:8888/udp/239.49.0.22:8168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",靓妆频道
-http://10.0.0.1:8888/udp/239.49.0.150:9194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州新闻综合
-http://10.0.0.1:8888/udp/239.49.0.203:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州经济生活
-http://10.0.0.1:8888/udp/239.49.0.175:8886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州文艺影视
-http://10.0.0.1:8888/udp/239.49.0.173:8890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",徐州公共
-http://10.0.0.1:8888/udp/239.49.0.174:8902
